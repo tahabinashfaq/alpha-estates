@@ -69,7 +69,7 @@ interface SystemSettings {
 
 const defaultSettings: SystemSettings = {
   general: {
-    siteName: 'Alpha Argons Real Estate',
+    siteName: 'Alpha Estates Real Estate',
     siteDescription: 'Premium real estate platform for buying, selling, and renting properties',
     contactEmail: 'contact@alphaargons.com',
     contactPhone: '+1 (555) 123-4567',

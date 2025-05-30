@@ -970,7 +970,7 @@ export default function PropertyDetailPage({ params }: { params: Promise<{ id: s
                 </button>
 
                 <a
-                  href={`mailto:?subject=Check out this property: ${property.title}&body=I found this amazing property on Alpha Argons: ${window.location.href}`}
+                  href={`mailto:?subject=Check out this property: ${property.title}&body=I found this amazing property on Alpha Estates: ${window.location.href}`}
                   className="w-full flex items-center space-x-3 p-4 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
                 >
                   <div className="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center">

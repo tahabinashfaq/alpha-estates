@@ -299,7 +299,7 @@ export function ContactForm({
             required
           />
           <label htmlFor="consent" className="text-sm text-gray-600">
-            I agree to be contacted by Alpha Argons regarding my inquiry. I understand that my information will be handled according to the{' '}
+            I agree to be contacted by Alpha Estates regarding my inquiry. I understand that my information will be handled according to the{' '}
             <a href="/privacy" className="text-blue-600 hover:text-blue-700 underline">
               Privacy Policy
             </a>.

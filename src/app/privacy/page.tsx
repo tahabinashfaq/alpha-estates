@@ -11,7 +11,7 @@ export default function PrivacyPolicyPage() {
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg">A</span>
               </div>
-              <span className="text-xl font-bold text-white">Alpha Argons</span>
+              <span className="text-xl font-bold text-white">Alpha Estates</span>
             </Link>
 
             <div className="hidden md:flex items-center space-x-8">
@@ -59,7 +59,7 @@ export default function PrivacyPolicyPage() {
           <section>
             <h2 className="text-2xl font-semibold mb-4 text-blue-400">1. Introduction</h2>
             <p className="text-gray-300 leading-relaxed">
-              Welcome to Alpha Argons (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;). We are committed to protecting your privacy and personal information.
+              Welcome to Alpha Estates (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;). We are committed to protecting your privacy and personal information.
               This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our real estate platform.
             </p>
           </section>
@@ -224,7 +224,7 @@ export default function PrivacyPolicyPage() {
         {/* Footer CTA */}
         <div className="mt-12 text-center">
           <p className="text-gray-400 mb-4">
-            By using Alpha Argons, you agree to the terms outlined in this Privacy Policy.
+            By using Alpha Estates, you agree to the terms outlined in this Privacy Policy.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

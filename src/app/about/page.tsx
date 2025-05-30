@@ -13,7 +13,7 @@ export default function AboutPage() {
       <div className="bg-white">
         <div className="  mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-            About <span className="text-blue-600">Alpha Argons</span>
+            About <span className="text-blue-600">Alpha Estates</span>
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Your trusted partner in finding the perfect home. We're revolutionizing the real estate experience with modern technology and personalized service.
@@ -124,7 +124,7 @@ export default function AboutPage() {
         <div className="bg-white rounded-lg shadow-sm border p-8 text-center">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Ready to Get Started?</h2>
           <p className="text-lg text-gray-600 mb-8">
-            Join thousands of satisfied customers who have found their dream homes with Alpha Argons.
+            Join thousands of satisfied customers who have found their dream homes with Alpha Estates.
           </p>
           <div className="space-x-4">
             <Link href="/properties" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-medium transition-colors">

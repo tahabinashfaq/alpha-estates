@@ -19,7 +19,7 @@ export default function RegisterPage() {
           <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center">
             <span className="text-white font-bold text-xl">A</span>
           </div>
-          <span className="text-2xl font-bold text-gray-900">Alpha Argons</span>
+          <span className="text-2xl font-bold text-gray-900">Alpha Estates</span>
         </Link>
       </div>
 
@@ -36,7 +36,7 @@ export default function RegisterPage() {
 
       {/* Footer */}
       <div className="mt-8 text-center text-sm text-gray-500">
-        <p>&copy; {new Date().getFullYear()} Alpha Argons. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Alpha Estates. All rights reserved.</p>
       </div>
     </div>
   );

@@ -1,4 +1,4 @@
-// Firebase config for The Alpha Argons
+// Firebase config for The Alpha Estates
 // Place your Firebase config values in .env.local and import them here
 import { getApps, initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";

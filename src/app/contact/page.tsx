@@ -5,7 +5,7 @@ export default function ContactPage() {
   return (
     <div className="min-h-screen bg-[#10141a] text-white p-8">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold mb-8 text-center">Contact Alpha Argons</h1>
+        <h1 className="text-4xl font-bold mb-8 text-center">Contact Alpha Estates</h1>
         <div className="mb-8 text-center">
           <p className="text-gray-300 text-lg">
             Have questions about our properties or need assistance? We&apos;re here to help!

@@ -18,8 +18,8 @@ export default function EnhancedFAQPage() {
     // General Questions
     {
       id: '1',
-      question: 'What is Alpha Argons?',
-      answer: 'Alpha Argons is a comprehensive real estate platform that connects buyers, sellers, and agents. We provide tools for property listings, advanced search, virtual tours, and seamless communication between all parties.',
+      question: 'What is Alpha Estates?',
+      answer: 'Alpha Estates is a comprehensive real estate platform that connects buyers, sellers, and agents. We provide tools for property listings, advanced search, virtual tours, and seamless communication between all parties.',
       category: 'general'
     },
     {
@@ -30,7 +30,7 @@ export default function EnhancedFAQPage() {
     },
     {
       id: '3',
-      question: 'Is Alpha Argons free to use?',
+      question: 'Is Alpha Estates free to use?',
       answer: 'Basic browsing and searching is completely free. Listing properties may have fees depending on your plan. Contact us for detailed pricing information.',
       category: 'general'
     },
@@ -122,7 +122,7 @@ export default function EnhancedFAQPage() {
     },
     {
       id: '17',
-      question: 'Can I access Alpha Argons on mobile devices?',
+      question: 'Can I access Alpha Estates on mobile devices?',
       answer: 'Yes, our platform is fully responsive and works seamlessly on all devices including smartphones and tablets.',
       category: 'technical'
     },
@@ -179,7 +179,7 @@ export default function EnhancedFAQPage() {
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg">A</span>
               </div>
-              <span className="text-xl font-bold text-white">Alpha Argons</span>
+              <span className="text-xl font-bold text-white">Alpha Estates</span>
             </Link>
 
             <div className="hidden md:flex items-center space-x-8">
@@ -217,7 +217,7 @@ export default function EnhancedFAQPage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold mb-4">Frequently Asked Questions</h1>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto">
-            Find answers to common questions about Alpha Argons. Can&apos;t find what you&apos;re looking for?
+            Find answers to common questions about Alpha Estates. Can&apos;t find what you&apos;re looking for?
             <Link href="/contact" className="text-blue-400 hover:text-blue-300 ml-1">Contact us</Link>
           </p>
         </div>
@@ -307,7 +307,7 @@ export default function EnhancedFAQPage() {
         <div className="mt-16 text-center bg-[#181c23] rounded-xl p-8 border border-[#232a36]">
           <h2 className="text-2xl font-bold mb-4">Still have questions?</h2>
           <p className="text-gray-300 mb-6">
-            Our support team is here to help you get the most out of Alpha Argons.
+            Our support team is here to help you get the most out of Alpha Estates.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
